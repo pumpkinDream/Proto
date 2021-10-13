@@ -1,8 +1,8 @@
 extends Node
 
 #Porter Here
+var character
 
 
 
 
-#Map Shuffler
